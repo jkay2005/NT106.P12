@@ -4,5 +4,5 @@
 
 
 1.Dương Gia Khiêm MSSV:23520729
-2.Huỳnh Văn Lộc MSSV:23520863
+2.Nguyễn Văn Lộc MSSV:23520863
 3.Huỳnh Tấn Kiến Minh MSSV: 23520927
