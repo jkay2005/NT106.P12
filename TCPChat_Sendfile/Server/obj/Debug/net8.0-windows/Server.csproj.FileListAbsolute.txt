@@ -1,0 +1,16 @@
+D:\study\LTMCB\Server\Server\bin\Debug\net8.0-windows\Server.exe
+D:\study\LTMCB\Server\Server\bin\Debug\net8.0-windows\Server.deps.json
+D:\study\LTMCB\Server\Server\bin\Debug\net8.0-windows\Server.runtimeconfig.json
+D:\study\LTMCB\Server\Server\bin\Debug\net8.0-windows\Server.dll
+D:\study\LTMCB\Server\Server\bin\Debug\net8.0-windows\Server.pdb
+D:\study\LTMCB\Server\Server\obj\Debug\net8.0-windows\Server.Server.resources
+D:\study\LTMCB\Server\Server\obj\Debug\net8.0-windows\Server.csproj.GenerateResource.cache
+D:\study\LTMCB\Server\Server\obj\Debug\net8.0-windows\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\LTMCB\Server\Server\obj\Debug\net8.0-windows\Server.AssemblyInfoInputs.cache
+D:\study\LTMCB\Server\Server\obj\Debug\net8.0-windows\Server.AssemblyInfo.cs
+D:\study\LTMCB\Server\Server\obj\Debug\net8.0-windows\Server.csproj.CoreCompileInputs.cache
+D:\study\LTMCB\Server\Server\obj\Debug\net8.0-windows\Server.dll
+D:\study\LTMCB\Server\Server\obj\Debug\net8.0-windows\refint\Server.dll
+D:\study\LTMCB\Server\Server\obj\Debug\net8.0-windows\Server.pdb
+D:\study\LTMCB\Server\Server\obj\Debug\net8.0-windows\Server.genruntimeconfig.cache
+D:\study\LTMCB\Server\Server\obj\Debug\net8.0-windows\ref\Server.dll
