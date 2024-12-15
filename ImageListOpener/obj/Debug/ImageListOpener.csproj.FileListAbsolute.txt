@@ -1,0 +1,10 @@
+C:\Users\priva\source\repos\ImageListOpener\ImageListOpener\bin\Debug\ImageListOpener.exe.config
+C:\Users\priva\source\repos\ImageListOpener\ImageListOpener\bin\Debug\ImageListOpener.exe
+C:\Users\priva\source\repos\ImageListOpener\ImageListOpener\bin\Debug\ImageListOpener.pdb
+C:\Users\priva\source\repos\ImageListOpener\ImageListOpener\obj\Debug\ImageListOpener.csproj.AssemblyReference.cache
+C:\Users\priva\source\repos\ImageListOpener\ImageListOpener\obj\Debug\ImageListOpener.Form1.resources
+C:\Users\priva\source\repos\ImageListOpener\ImageListOpener\obj\Debug\ImageListOpener.Properties.Resources.resources
+C:\Users\priva\source\repos\ImageListOpener\ImageListOpener\obj\Debug\ImageListOpener.csproj.GenerateResource.cache
+C:\Users\priva\source\repos\ImageListOpener\ImageListOpener\obj\Debug\ImageListOpener.csproj.CoreCompileInputs.cache
+C:\Users\priva\source\repos\ImageListOpener\ImageListOpener\obj\Debug\ImageListOpener.exe
+C:\Users\priva\source\repos\ImageListOpener\ImageListOpener\obj\Debug\ImageListOpener.pdb
