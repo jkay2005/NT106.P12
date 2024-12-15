@@ -1,0 +1,82 @@
+﻿[
+  {
+    "ShowQuestion": "Thủ đô của Việt Nam là thành phố nào?",
+    "choiceA": "Hồ Chí Minh",
+    "choiceB": "Đà Nẵng",
+    "choiceC": "Hà Nội",
+    "choiceD": "Hải Phòng",
+    "answer": "C"
+  },
+  {
+    "ShowQuestion": "Nguyên tố hóa học nào có ký hiệu là H?",
+    "choiceA": "Helium",
+    "choiceB": "Hydro",
+    "choiceC": "Beri",
+    "choiceD": "Liti",
+    "answer": "B"
+  },
+  {
+    "ShowQuestion": "Quốc gia nào lớn nhất trên thế giới theo diện tích?",
+    "choiceA": "Trung Quốc",
+    "choiceB": "Mỹ",
+    "choiceC": "Canada",
+    "choiceD": "Nga",
+    "answer": "D"
+  },
+  {
+    "ShowQuestion": "Loài vật nào được mệnh danh là 'chúa tể sơn lâm'?",
+    "choiceA": "Hổ",
+    "choiceB": "Sư tử",
+    "choiceC": "Báo",
+    "choiceD": "Voi",
+    "answer": "B"
+  },
+  {
+    "ShowQuestion": "Tác phẩm 'Truyện Kiều' là của ai?",
+    "choiceA": "Nguyễn Du",
+    "choiceB": "Nguyễn Trãi",
+    "choiceC": "Nguyễn Khuyến",
+    "choiceD": "Phan Bội Châu",
+    "answer": "A"
+  },
+  {
+    "ShowQuestion": "Trong hệ mặt trời, hành tinh nào gần mặt trời nhất?",
+    "choiceA": "Sao Kim",
+    "choiceB": "Sao Hỏa",
+    "choiceC": "Sao Mộc",
+    "choiceD": "Sao Thủy",
+    "answer": "D"
+  },
+  {
+    "ShowQuestion": "Đơn vị đo lường điện năng là gì?",
+    "choiceA": "Vôn",
+    "choiceB": "Oát",
+    "choiceC": "Ampe",
+    "choiceD": "Ôm",
+    "answer": "B"
+  },
+  {
+    "ShowQuestion": "Ai là người đầu tiên đặt chân lên mặt trăng?",
+    "choiceA": "Buzz Aldrin",
+    "choiceB": "Yuri Gagarin",
+    "choiceC": "Neil Armstrong",
+    "choiceD": "Michael Collins",
+    "answer": "C"
+  },
+  {
+    "ShowQuestion": "Nguyên tố nào có số nguyên tử là 8?",
+    "choiceA": "Oxi",
+    "choiceB": "Nitơ",
+    "choiceC": "Carbon",
+    "choiceD": "Kali",
+    "answer": "A"
+  },
+  {
+    "ShowQuestion": "Nước nào có dân số đông nhất thế giới?",
+    "choiceA": "Ấn Độ",
+    "choiceB": "Mỹ",
+    "choiceC": "Trung Quốc",
+    "choiceD": "Nga",
+    "answer": "C"
+  }
+]
